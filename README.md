@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marymAlaaEldin  
 - 👀 I’m interested in web development  
-- 🌱 I’m currently learning ASP.NET 
+- 🌱 I’m currently learning ASP.NET stack
   
 ### MY EXPERIENCE
 - I have took a place in **Support ASU** student activity as a **HR Head and Vice President**.  
