@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ASP.NET 
   
 ### MY EXPERIENCE
-- I have took a place in **Support ASU** student activity as **HR Head and Vice President**.  
+- I have took a place in **Support ASU** student activity as a **HR Head and Vice President**.  
 - I have joined **Support ASU** as a **full-stack** member in **Web committee**.  
 - I have joined **IClub** as a **front-end** member in **Web committee**. 
 
